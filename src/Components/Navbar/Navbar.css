@@ -1,0 +1,28 @@
+.nav-container {
+  margin-left: 240px;
+  height: 56px;
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.nav-bar {
+  height: 100%;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between
+}
+
+.logo {
+  font-size: 1.9rem;
+  font-weight: 800;
+  color: #0a0b0e;
+}
+
+.profile-img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
