@@ -39,7 +39,7 @@ Some features may be incomplete or subject to change.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/CodeWithPurnendra/Dashboard-App.git
 ```
 ### 2️⃣ Navigate to the Project
 ```bash
