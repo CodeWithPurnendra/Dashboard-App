@@ -43,7 +43,7 @@ git clone https://github.com/your-username/your-repo-name.git
 ```
 ### 2️⃣ Navigate to the Project
 ```bash
-cd your-repo-name
+cd dashboard-app
 ```
 ### 3️⃣ Install Dependencies
 ```bash
