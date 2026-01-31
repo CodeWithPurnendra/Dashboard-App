@@ -1,16 +1,60 @@
-# React + Vite
+# 📊 React Dashboard App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Dashboard Application** built using **React.js**.  
+This project is currently **under active development** and new features are being added regularly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Status
 
-## React Compiler
+⚠️ **Work in Progress**  
+The core structure and UI components are being developed.  
+Some features may be incomplete or subject to change.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features (Planned & Implemented)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📈 Dashboard cards with key metrics
+- 📊 Charts and data visualization
+- 🔍 Search and filter functionality
+- 📱 Fully responsive layout
+- 🎨 Clean and modern UI design
+- ⚡ Fast performance with React hooks
+- 🧩 Reusable components
+- 🌙 Dark / Light mode (planned)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **CSS / Modern CSS**
+- **React Hooks**
+- **React Icons**
+---
+
+## 🧑‍💻 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/CodeWithPurnendra/Dashboard-App.git
+```
+### 2️⃣ Navigate to the Project
+```bash
+cd dashboard-app
+```
+### 3️⃣ Install Dependencies
+```bash
+   npm install
+```
+### 4️⃣ Run the Application
+for Vite projects:
+  ```bash
+  npm run dev
+```
+For Create React App (CRA):
+```bash
+npm start
+```
